@@ -7,7 +7,7 @@
 
 <div style="display: flex;">
   <img src="female_before.png" alt="(a)" style="width: 50%;">
-  <img src="female_afte.png" alt="(b)" style="width: 50%;">
+  <img src="female_after.png" alt="(b)" style="width: 50%;">
 </div>
 
 <p align="center">
