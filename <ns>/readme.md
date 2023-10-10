@@ -4,11 +4,11 @@
 
 
   &nbsp; The audio spectrum of the second people is shown in Fig.2,(a) is the raw wave, (b) is the spectrum of clean speech processed by this program.
+  
+| ![Image A](female_before.png) | ![Image B](female_after.png) |
+|:---:|:---:|
+| (a) | (b) |
 
-<div style="display: flex;">
-  <img src="female_before.png" alt="(a)" style="width: 50%;">
-  <img src="female_after.png" alt="(b)" style="width: 50%;">
-</div>
 
 <p align="center">
 Fig.2 speak2
