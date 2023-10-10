@@ -18,14 +18,8 @@ Fig.2 speak2
 
 
 &nbsp; The audio named “inter_130_speaker_210.wav”  is selected by McNet, which is the man's speak audio.The spectrum of it is as shown in Fig.2.
-![Fig.2 Man's audio spectrum](man.png)
-<p align="center">
-Fig.2 Man's audio spectrum
-</p>
+
 
 
 &nbsp; The audio named “inter_210_speaker_130.wav”  is selected by McNet, which is the woman's speak audio.The spectrum of it is as shown in Fig.3.
-![Fig.3 Woman's audio spectrum](woman.png)
-<p align="center">
-Fig.3 Woman's audio spectrum
-</p>
+
