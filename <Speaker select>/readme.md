@@ -2,8 +2,10 @@
 
   &nbsp; There are two people talking at the same time, the man is located at 210° relative to the reference microphone, while the girl is at 130°.The spectrum of the collected original audio
 signal of mic1 is as shown in Fig.1.
-
 ![Fig.1 Raw wav spectrum](raw.png)
+<p align="center">
+Fig.1 Raw wav spectrum
+</p>
 
 &nbsp; After using McNet to choose the speaker based on his or her location relative to the reference microphone,we can get the audio of the target speaker.<br>
 
