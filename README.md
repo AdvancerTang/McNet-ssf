@@ -14,4 +14,11 @@ and the audio processed with neural network, which is presented by this program.
 * Noise suppression
 
   
-&nbsp; When people are talking in a noisy environment, it can be used to reduce noise and obtain clean speaker audio. The folder named **NS** include the raw audio captured by microphone array and the single channel clean audio processed by this program.
+&nbsp; When people are talking in a noisy environment, it can be used to reduce noise and obtain clean speaker audio. The folder named **ns** include the raw audio captured by microphone array and the single channel clean audio processed by this program.
+
+
+
+* Speech enhancement
+
+  
+&nbsp; When people are talking, there may be multi type of interfers such as video and music, which may lead to the decrease of ASR, the algorithm in this program can be used to enhance the voice of speaker. The folder named **SE** include the raw audio captured by microphone array and the single channel clean audio processed by the algorithm in this program.
