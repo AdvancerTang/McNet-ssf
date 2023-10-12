@@ -7,7 +7,7 @@
 * Speech separation
 
 
- &nbsp;When many people are talking at the same time, the program can be used to extract a single target speaker based on his or her direction. The folder named **Speaker setect** include the raw audio captured by microphone array
+ &nbsp;When many people are talking at the same time, the program can be used to extract a single target speaker based on his or her direction. The folder named **<Speaker setect>** include the raw audio captured by microphone array
 and the single channel audio processed by neural network, which is presented by this program.
 
 
