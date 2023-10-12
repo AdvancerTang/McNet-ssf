@@ -15,7 +15,7 @@ Fig.1 video interfer
 
   &nbsp; The wave spectrum of  the collected audio with music interfer is shown in Fig.2, (a) is the raw wave spectrum, (b) is the spectrum of the clean speech processed by the neural network.
   
-| ![Image A](before_music.png) | ![Image B](after_music.png) |
+| ![Image A](./<spectrum>/before_music.png) | ![Image B](./<spectrum>/after_music.png) |
 |:---:|:---:|
 | (a) | (b) |
 
