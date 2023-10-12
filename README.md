@@ -14,11 +14,11 @@ and the single channel audio processed by neural network, which is presented by 
 * Noise suppression
 
   
-&nbsp; When people are talking in a noisy environment, it can be used to suppress noise while obtain clean speech signal of the speaker. The folder named **ns** include the raw audio captured by microphone array and the single channel clean audio processed by this program.
+&nbsp; When people are talking in a noisy environment, it can be used to suppress noise while obtain clean speech signal of the speaker. The folder named &lt;**ns**&gt; include the raw audio captured by microphone array and the single channel clean audio processed by this program.
 
 
 
 * Speech enhancement
 
   
-&nbsp; When people are talking, there may be multi kinds of interference such as video and music, which may lead to the decrease of ASR, the algorithm in this program can be used to enhance the voice of the target speaker. The folder named **SE** include the raw audio captured by microphone array and the single channel clean audio processed by the algorithm in this program.
+&nbsp; When people are talking, there may be multi kinds of interference such as video and music, which may lead to the decrease of ASR, the algorithm in this program can be used to enhance the voice of the target speaker. The folder named &lt;**SE**&gt; include the raw audio captured by microphone array and the single channel clean audio processed by the algorithm in this program.
