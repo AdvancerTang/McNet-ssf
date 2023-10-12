@@ -5,7 +5,7 @@
 
   &nbsp; The spectrum of the collected audio with video interfer is shown in Fig.1, (a) is the raw wave spectrum, (b) is the spectrum of the speech processed by the neural network.
   
-| ![Image A](./spectrum/before_video.png) | ![Image B](./spectrum/after_video.png) |
+| ![Image A](./<spectrum>/before_video.png) | ![Image B](./<spectrum>/after_video.png) |
 |:---:|:---:|
 | (a) | (b) |
 
