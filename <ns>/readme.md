@@ -5,7 +5,7 @@
 
   &nbsp; The audio spectrum of the first people is shown in Fig.1,(a) is the spectrum of original audio, (b) is the spectrum of the denoised audio processed by this program.
   
-| ![Image A](man_before.png) | ![Image B](man_after.png) |
+| ![Image A](./<spectrum>/man_before.png) | ![Image B](./<spectrum>/man_after.png) |
 |:---:|:---:|
 | (a) | (b) |
 
@@ -15,7 +15,7 @@ Fig.1 speak1
 
   &nbsp; The audio spectrum of the second people is shown in Fig.2,(a) is the spectrum of original audio, (b) is also the spectrum of the denoised audio processed by this program.
   
-| ![Image A](female_before.png) | ![Image B](female_after.png) |
+| ![Image A](./<spectrum>/female_before.png) | ![Image B](./<spectrum>/female_after.png) |
 |:---:|:---:|
 | (a) | (b) |
 
